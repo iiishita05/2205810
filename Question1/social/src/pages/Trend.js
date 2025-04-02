@@ -1,5 +1,5 @@
 import React from "react";
-import TrendingP from "../components/TrendingPosts";
+import TrendingP from "../components/TrendingP";
 
 const Trend = () => (
   <div>
